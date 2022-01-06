@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[48],{RXBc:function(n,t,e){"use strict";e.r(t);var i=e("q1tI"),s=e.n(i),a=e("9kvl"),p=(e("ZGKy"),e("Vx04"));t["default"]=function(){return Object(p["getToken"])()?a["a"].push("/spirits/metaspirit"):a["a"].push("/login"),s.a.createElement("div",null,"\u9996\u9875")}}}]);
